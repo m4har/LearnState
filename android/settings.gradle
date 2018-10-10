@@ -1,0 +1,3 @@
+rootProject.name = 'learnstate'
+
+include ':app'
